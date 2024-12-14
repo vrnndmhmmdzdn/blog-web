@@ -1,0 +1,15 @@
+.slide-parent{
+    height: 100% !important;
+    width: 100% !important;
+}
+.slide-card{
+    display: grid !important;
+    height: 100% !important;
+    width: 100% !important;
+}
+.block-parent .card div{
+    /* width:100%;
+    display: flex;
+    gap: 12px; */
+    mergin: 20px;
+}
